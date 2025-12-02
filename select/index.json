@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "初",
+  "base_artist": "初星学園",
+  "createdAt": "2025-12-02T16:00:46.709943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初",
+      "artist": "王詩安",
+      "has_synced": false,
+      "path": "select/01_初_王詩安.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/02_初_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛して愛して愛して (feat. 初�����ク)",
+      "artist": "utsu-p hatsune miku",
+      "has_synced": true,
+      "path": "select/03_愛して愛して愛して_(feat._初�����ク)_utsu-p_hatsune_miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "《初·爱》(电视剧《程序员那么可爱》片尾曲)",
+      "artist": "邢邵林",
+      "has_synced": false,
+      "path": "select/04_《初·爱》(电视剧《程序员那么可爱》片尾曲)_邢邵林.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒアソビ (feat. 初�����ク)",
+      "artist": "camellia",
+      "has_synced": true,
+      "path": "select/05_ヒアソビ_(feat._初�����ク)_camellia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "初",
+      "artist": "Ryan.B",
+      "has_synced": true,
+      "path": "select/06_初_Ryan.B.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "初 [篠澤広 Solo ver.]",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/07_初_[篠澤広_Solo_ver.]_初星学園.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初",
+      "artist": "初星学園",
+      "has_synced": false,
+      "path": "select/pl_01_初_初星学園.txt"
+    }
+  ]
+}
